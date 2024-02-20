@@ -1,0 +1,22 @@
+html {
+    font-family: "Port Lligat Sans", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.5;
+}
+/* change the font and size of both buttons and drop down */
+button, select, input {
+    font-family: "Port Lligat Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    padding: 10px 20px;
+    border-style: solid;
+    border-radius: 5px;
+}
+/* make the size of all images the same */
+#images {
+    width: 900px;
+    height: auto;
+}
